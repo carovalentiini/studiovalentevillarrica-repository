@@ -1,0 +1,6 @@
+# Redirecciones permanentes desde las versiones .html hacia las URLs limpias.
+/index.html         /                   301
+/terminos.html      /terminos           301
+/privacidad.html    /privacidad         301
+/estatuto.html      /estatuto           301
+/cancelacion.html   /cancelacion        301

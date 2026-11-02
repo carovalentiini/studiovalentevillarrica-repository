@@ -1,6 +1,7 @@
 # Archivos de desarrollo que no deben publicarse como assets del sitio.
 # wrangler.jsonc usa directory "./", asi que sin esto se sube la carpeta completa.
 .git/**
+.wrangler/**
 .gitignore
 .assetsignore
 wrangler.jsonc
